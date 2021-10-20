@@ -1,4 +1,4 @@
-# Telco Default prediction
+# Telco Default Prediction
  Here, I explore some machine learning techniques for handling tabular data and deploy the models using the Flask API.
 
  # Process
